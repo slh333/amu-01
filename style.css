@@ -204,43 +204,43 @@ body{
     transition: .5s transform ease-in-out;
 }
 .imglist1:nth-of-type(1){
-    background-image: url(/img/model1.jpg);
+    background-image: url(img/model1.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 0;
 }
 .imglist1:nth-of-type(2){
-    background-image: url(/img/model2.jpg);
+    background-image: url(img/model2.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 100%;
 }
 .imglist1:nth-of-type(3){
-    background-image: url(/img/model3.jpg);
+    background-image: url(img/model3.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 200%;
 }
 .imglist1:nth-of-type(4){
-    background-image: url(/img/model4.jpg);
+    background-image: url(img/model4.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 300%;
 }
 .imglist1:nth-of-type(5){
-    background-image: url(/img/model5.jpg);
+    background-image: url(img/model5.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 400%;
 }
 .imglist1:nth-of-type(6){
-    background-image: url(/img/model6.jpg);
+    background-image: url(img/model6.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 500%;
 }
 .imglist1:nth-of-type(7){
-    background-image: url(/img/model7.jpg);
+    background-image: url(img/model7.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     left: 600%;
